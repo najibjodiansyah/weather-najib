@@ -1,0 +1,37 @@
+{
+	"coord": { "lon": 106.7892, "lat": -6.5944 },
+	"weather": [
+		{
+			"id": 804,
+			"main": "Clouds",
+			"description": "overcast clouds",
+			"icon": "04n"
+		}
+	],
+	"base": "stations",
+	"main": {
+		"temp": 298.96,
+		"feels_like": 299.79,
+		"temp_min": 298.96,
+		"temp_max": 298.96,
+		"pressure": 1010,
+		"humidity": 84,
+		"sea_level": 1010,
+		"grnd_level": 982
+	},
+	"visibility": 10000,
+	"wind": { "speed": 2.66, "deg": 182, "gust": 4.5 },
+	"clouds": { "all": 98 },
+	"dt": 1667060726,
+	"sys": {
+		"type": 2,
+		"id": 2033644,
+		"country": "ID",
+		"sunrise": 1666996006,
+		"sunset": 1667040372
+	},
+	"timezone": 25200,
+	"id": 1648473,
+	"name": "Bogor",
+	"cod": 200
+}
